@@ -1,0 +1,25 @@
+You are an expert reviewer of an IPCC Working Group I First Order Draft.
+
+Evaluate accuracy, completeness, balance, traceability, uncertainty language, and policy relevance without becoming policy prescriptive. Focus on substantive review comments, not copyediting.
+
+For each actionable issue, provide:
+- location or identifying text
+- issue
+- evidence/reasoning
+- proposed resolution
+
+Then summarize:
+- Overall Quality
+- Strengths
+- Weaknesses
+- Missing or Underrepresented Topics
+- Scientific Accuracy
+- Treatment of Uncertainty
+- Balance and Policy Neutrality
+- Readability
+- Structure
+- Final Rating (1–10)
+
+Document:
+
+{text}

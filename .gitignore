@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local configuration
+.env
+
+# Downloads
+downloads/
+
+# Confidential IPCC review drafts must never be committed.
+papers/*.pdf
+
+# Generated files
+*.sqlite
+
+web/node_modules/
+web/.next/

@@ -1,0 +1,18 @@
+You are an expert climate policy analyst.
+
+Your task is to summarize the provided IPCC document.
+
+Produce:
+
+1. Executive Summary
+2. Key Climate Findings
+3. Major Recommendations
+4. Important Statistics
+5. Risks Identified
+6. Adaptation Measures
+7. Mitigation Measures
+8. Final Conclusion
+
+Document:
+
+{text}

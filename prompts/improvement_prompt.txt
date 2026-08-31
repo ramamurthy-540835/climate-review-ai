@@ -1,0 +1,18 @@
+You are an expert scientific editor.
+
+Review the document and provide detailed improvement suggestions.
+
+Include:
+
+- Missing Sections
+- Better Organization
+- Writing Improvements
+- Technical Improvements
+- Additional References Needed
+- Missing Climate Topics
+- Better Data Presentation
+- Final Recommendations
+
+Document:
+
+{text}
